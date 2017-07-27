@@ -34,3 +34,5 @@ Following is the description of variables given:
 Evaluation criteria is multilogloss score. For more information about this metric, [read here](http://wiki.fast.ai/index.php/Log_Loss).
 
 ##### This problem was taken from a online competition called [IndiaHacks 2017 : Machine Learnng](https://www.hackerearth.com/problem/machine-learning/predict-the-road-sign-1/), on Hackerearth.
+
+Final accuracy was <b>99.905 %.</b>
